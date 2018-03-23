@@ -1,0 +1,97 @@
+body {
+    background-image: url("https://orig00.deviantart.net/f742/f/2012/303/e/2/great_chasm_by_jbrown67-d5jgw01.jpg");
+    background-color: lightgrey;
+    background-position: center;
+    background-size: cover;
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+   /* margin-right: 100px;
+    margin-left: 100px;*/
+}
+h1 {
+    text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(119, 20, 16);
+    text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+    
+}
+h2{
+    font-family: Helvetica;
+    font-size: 30px;
+    color: rgb(255, 136, 119);
+    text-shadow: 0.1em 0.1em 0.3em rgb(119, 20, 16)
+}
+h3 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 30px;
+    color: rgb(255, 136, 119);
+    text-shadow: 0.1em 0.1em 0.3em rgb(119, 20, 16)
+}
+h4 {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 25px;
+    color: rgb(255, 253, 118);
+    text-shadow: 0.2em 0.1em 0.1em rgb(0, 0, 0)
+}
+ul {
+    font-family: Helvetica;
+    font-size: 18px;
+    color: white;
+}
+ol {
+    font-family: Helvetica;
+    font-size: 18px;
+    color: white;
+}
+article {
+    text-align: center;
+}
+a {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white
+}
+footer {
+    text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(119, 20, 16);
+    text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+}
+
+#top-pic {
+    border-radius: 5px;
+    border: 8px solid rgb(219, 188, 9);  
+}
+.picborder {
+    border-radius: 5px;
+    border: 8px solid rgb(219, 188, 9);
+}
+.picbordercenter{
+    border-radius: 5px;
+    border: 8px solid rgb(219, 188, 9);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.textcenter {
+    margin-left: auto;
+    margin-right: auto;
+}
+#col {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+    margin-left: 300px;
+  }
